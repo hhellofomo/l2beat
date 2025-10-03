@@ -24,6 +24,8 @@ export const yellowstone: ScalingProject = upcomingL3({
         'https://discord.com/invite/zBw5hDZve8',
         'https://linkedin.com/company/lit-protocol',
       ],
+      repositories: ['https://github.com/LIT-Protocol'],
+      bridges: ['https://bridge.litprotocol.com/'],
     },
   },
   ecosystemInfo: {
